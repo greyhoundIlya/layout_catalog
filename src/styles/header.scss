@@ -34,6 +34,7 @@
   display: block;
   text-align: center;
   font-size: 12px;
+  transition: color 0.3s ease, background-color 0.3s ease;
 }
 
 .nav__link.is-active {
